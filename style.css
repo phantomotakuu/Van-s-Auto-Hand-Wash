@@ -2,6 +2,9 @@
 
 body {
   padding-top: 70px;
+  background-image: url("https://cloud.githubusercontent.com/assets/8481204/22186728/073abcaa-e0c0-11e6-9b58-d69ede5b1726.jpg");
+  background-size: 100%, 100%;
+  background-repeat: no-repeat;
 }
 
 .well {
