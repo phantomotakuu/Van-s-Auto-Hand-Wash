@@ -15,12 +15,18 @@ body {
 
 p {
   font-size: 30px;
+  text-align: center;
 }
 
 h3{
   font-family: Garamond;
+  text-align: center;
 }
 
 li {
   font-family: Times New Roman;
+}
+
+img {
+  text-align: center;
 }
