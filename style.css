@@ -16,21 +16,19 @@ body {
 p {
   font-size: 30px;
   text-align: center;
+  text-color: blue;
 }
 
 h2 {
    font-family: Garamond;
    text-align: center;
+   text-color: blue;
 }
 
 h3{
   font-family: Garamond;
   text-align: center;
-}
-
-li {
-  font-family: Times New Roman;
-  text-align: center;
+  text-color: blue;
 }
 
 img {
