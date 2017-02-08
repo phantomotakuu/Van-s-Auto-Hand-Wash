@@ -14,21 +14,22 @@ body {
 }
 
 p {
+  font-family: Impact;
   font-size: 30px;
   text-align: center;
   color: #228B22;
 }
 
 h2 {
-   font-family: Garamond;
+   font-family: Impact;
    text-align: center;
-   text-color: #228B22;
+   color: #228B22;
 }
 
 h3{
-  font-family: Garamond;
+  font-family: Impact;
   text-align: center;
-  text-color: #228B22;
+  color: #228B22;
 }
 
 img {
